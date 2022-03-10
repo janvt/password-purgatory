@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "wrangler": "^0.0.19"
+  },
+  "volta": {
+    "node": "17.7.0"
+  }
+}
